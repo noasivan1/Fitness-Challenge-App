@@ -3,7 +3,7 @@
 **WebFitPro** is a full-stack fitness application that enables users to participate in challenges, track their progress, and share feedback with the community.  
 Built with a responsive and intuitive interface, the platform promotes motivation, personal goal-setting, and social engagement for fitness enthusiasts.
 
-📌 This project was developed as part of an academic course by a team of 6 collaborators, including Eden Kantor and Noa Sivan.
+📌 This project was developed as part of an academic course by a team of 6 collaborators.
 
 ### 🌐 Live Demo  
 🔗 [https://web-fit-pro-front-kappa.vercel.app](https://web-fit-pro-front-kappa.vercel.app)
